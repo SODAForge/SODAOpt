@@ -53,7 +53,7 @@ A recommendation system that combines textual descriptions and demographic data 
 
 Use the following code for getting recommendations:
 
-допишу позже
+допишу чуть позже
 
 ## Project Structure
 
