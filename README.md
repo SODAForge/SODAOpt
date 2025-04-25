@@ -1,6 +1,6 @@
-# RecomText - Multimodal Recommendation System
+# SODAOpt: Socio-Demographic and Textual Adaptive Fusion for Optimizing Developer Task Assignment
 
-A recommendation system that combines textual descriptions and demographic data to create personalized recommendations.
+A transformer-based framework that integrates textual and socio-demographic embeddings to enhance task matching.
 
 ## Installation
 
