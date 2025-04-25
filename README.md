@@ -7,7 +7,7 @@ A transformer-based framework that integrates textual and socio-demographic embe
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/RecomText.git
-   cd RecomText
+   cd SODAOpt
    ```
 
 2. Create and activate virtual environment:
