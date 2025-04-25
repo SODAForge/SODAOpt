@@ -26,7 +26,7 @@ A recommendation system that combines textual descriptions and demographic data 
 
 1. Place your source data in the `data/` directory:
    - train_events.csv
-   - video_info_v2.csv
+   - repo_info.csv
    - train_targets.csv
    - all_events.csv
 
